@@ -11,7 +11,7 @@ SOBRE MIM
 🌱 Buscando evolução na área da programação e solidificando meu conhecimento em linguagens novas.                          
 📫 Contate-me: evelynbrenda011@gmail.com                  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/brenda-evelyn-8349b6213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/brenda-evelyn-8349b6213?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 _______________________________________________________________________________________________________________________________________________________________________________________________
 
 📌 Minhas Tecnologias       
