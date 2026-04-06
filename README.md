@@ -1,13 +1,13 @@
 OLÁ! SEJA BEM-VINDO (A) AO MEU GITHUB👋
 _______________________________________________________________________________________________________________________________________________________________________________________________
 
-📌Meu nome é Brenda Evelyn, tenho 19 anos e sou técnica em redes de computadores e acadêmica em Sistemas de informação. Sou cearense e resido na cidade de Barbalha.
+📌Meu nome é Brenda Evelyn, tenho 19 anos e sou Desenvolvedora full stack e acadêmica em Sistemas de informação. Sou cearense e resido na cidade de Barbalha.
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 SOBRE MIM
 
 💻 Profissional de TI apaixonada por tecnologia.  
-🚀 Trabalhando com suporte de redes e manutenção.         
+🚀 Trabalhando comDesenvolvimento de Sistemas.         
 🌱 Buscando evolução na área da programação e solidificando meu conhecimento em linguagens novas.                          
 📫 Contate-me: evelynbrenda011@gmail.com                  
 
